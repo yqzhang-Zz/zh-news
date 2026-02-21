@@ -70,3 +70,18 @@ redirect_from:
 - *2020/10*: &nbsp;🎉🎉 本人加入广东工业大学计算机学院。
 - *2020/03*: &nbsp;🎉🎉 一篇论文被**TCYB**接收。
 - *2019/11*: &nbsp;🎉🎉 一篇论文被**AAAI 2020**录用。
+
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    // 找到页面上所有的超链接
+    var links = document.querySelectorAll('a');
+    links.forEach(function(link) {
+      var href = link.getAttribute('href');
+      // 如果链接是指向当前新闻仓库的首页（也就是左上角的那个 Homepage）
+      if (href === '/' || href === '/zh-news/' || href === '/zh-news') {
+        // 强行把它“掰弯”，指向您的中文主站老家
+        link.href = 'https://yqzhang-zz.github.io/zh/';
+      }
+    });
+  });
+</script>
