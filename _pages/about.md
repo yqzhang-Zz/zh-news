@@ -4,8 +4,8 @@ title: "所有新闻动态"
 excerpt: ""
 author_profile: true
 redirect_from: 
-  zh/about/
-  zh/about.html
+  - /about/
+  - /about.html
 ---
 # 🔥 所有新闻动态
 - *2026/02*: &nbsp;🎉🎉 两篇论文被**CVPR 2026**录用，恭喜刘赫昭和侯世豪同学、以及卢杨老师！
