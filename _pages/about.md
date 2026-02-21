@@ -73,18 +73,24 @@ redirect_from:
 
 <script>
   document.addEventListener("DOMContentLoaded", function() {
-    // 直接精准狙击左上角的标志（这类模板通常使用 navbar-brand 类名）
-    var brandLink = document.querySelector('.navbar-brand');
-    
-    if (brandLink) {
-      // 1. 表面上修改链接地址
-      brandLink.href = 'https://yqzhang-zz.github.io/zh/';
+    // 延迟 0.8 秒执行，等它底层的流氓脚本全部绑定完，我们再出击
+    setTimeout(function() {
+      var links = document.querySelectorAll('a');
       
-      // 2. 强行剥夺模板自带的“页面滑动”特效，强制命令它立刻进行跨站跳转！
-      brandLink.onclick = function(event) {
-        event.preventDefault(); // 阻断模板的默认行为
-        window.location.href = 'https://yqzhang-zz.github.io/zh/'; // 强行踢回主站
-      };
-    }
+      links.forEach(function(link) {
+        // 精准狙击：只要链接里带 #about-me，或者带有 navbar-brand 标志，统统拿下
+        if (link.href.includes('#about-me') || link.classList.contains('navbar-brand')) {
+          
+          // 核心魔法：克隆节点。这一步会产生一个干净的、没有任何滑动特效附体的纯净按钮
+          var cleanLink = link.cloneNode(true); 
+          
+          // 给纯净按钮强行注入老家地址
+          cleanLink.href = 'https://yqzhang-zz.github.io/zh/'; 
+          
+          // 替换掉网页上那个不听话的旧按钮
+          link.parentNode.replaceChild(cleanLink, link); 
+        }
+      });
+    }, 800); 
   });
 </script>
