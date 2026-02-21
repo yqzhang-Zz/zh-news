@@ -73,15 +73,18 @@ redirect_from:
 
 <script>
   document.addEventListener("DOMContentLoaded", function() {
-    // 找到页面上所有的超链接
-    var links = document.querySelectorAll('a');
-    links.forEach(function(link) {
-      var href = link.getAttribute('href');
-      // 如果链接是指向当前新闻仓库的首页（也就是左上角的那个 Homepage）
-      if (href === '/' || href === '/zh-news/' || href === '/zh-news') {
-        // 强行把它“掰弯”，指向您的中文主站老家
-        link.href = 'https://yqzhang-zz.github.io/zh/';
-      }
-    });
+    // 直接精准狙击左上角的标志（这类模板通常使用 navbar-brand 类名）
+    var brandLink = document.querySelector('.navbar-brand');
+    
+    if (brandLink) {
+      // 1. 表面上修改链接地址
+      brandLink.href = 'https://yqzhang-zz.github.io/zh/';
+      
+      // 2. 强行剥夺模板自带的“页面滑动”特效，强制命令它立刻进行跨站跳转！
+      brandLink.onclick = function(event) {
+        event.preventDefault(); // 阻断模板的默认行为
+        window.location.href = 'https://yqzhang-zz.github.io/zh/'; // 强行踢回主站
+      };
+    }
   });
 </script>
