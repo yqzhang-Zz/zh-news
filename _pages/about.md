@@ -7,6 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
+<span class='anchor' id="news"></span>
+
 # 📜 所有新闻动态
 - *2026/02*: &nbsp;🎉🎉 两篇论文被**CVPR 2026**录用，恭喜刘赫昭和侯世豪同学以及卢杨教授！
 - *2026/01*: &nbsp;🎉 一篇论文被**DASFAA 2026**录用为长文，恭喜陈俊仰同学！
