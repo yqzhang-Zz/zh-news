@@ -8,7 +8,7 @@ main:
     url: "/zh/#about-me"
 
   - title: "新闻"
-    url: "/zh/#news"
+    url: "/zh-news/#news"
 
   - title: "论文"
     url: "/zh/#publications"
