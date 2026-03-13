@@ -15,13 +15,13 @@ redirect_from:
 - *2026/01*: &nbsp;🎉 本人被评为广东工业大学2025年度**优秀研究生导师**。
 - *2026/01*: &nbsp;🎉 一篇论文被**DASFAA 2026**录用为长文，恭喜陈俊仰同学！
 - *2026/01*: &nbsp;🎉 两篇论文被**ICASSP 2026**录用，恭喜邱淑洁和陈泰熙同学！
-- *2026/01*: &nbsp;🎉🎉 论文“[Learning Self-Growth Maps for…](https://ieeexplore.ieee.org/abstract/document/11007519)”（TNNLS 2025）入选ESI高被引（2026/01 | 2026/03）。
+- *2026/01*: &nbsp;🎉🎉 论文“[Learning Self-Growth Maps for…](https://ieeexplore.ieee.org/abstract/document/11007519)”（TNNLS 2025）入选ESI高被引（2026/01 &#124; 2026/03）。
 - *2026/01*: &nbsp;🎉 本人入选广东工业大学计算机学院2025年“**智创逐梦**”**年度人物**。
 - *2025/12*: &nbsp;🎉 两篇论文被**IoTJ**接收。
 - *2025/12*: &nbsp;🎉 本人被评为《广东工业大学学报》2025年度**优秀编委**。
 - *2025/12*: &nbsp;🎉 本人当选广东**省青年科学家协会理事**（第六届）。
 - *2025/11*: &nbsp;🎉 一篇论文被**Information Sciences**接收，恭喜张越教授和邱传隆同学！
-- *2025/11*: &nbsp;🎉🎉 论文“[Learning Unified Distance Metric…](https://www.sciencedirect.com/science/article/abs/pii/S0957417425003604)”（ESWA 2025）入选ESI高被引（2025/11 | 2026/01 | 2026/03）。
+- *2025/11*: &nbsp;🎉🎉 论文“[Learning Unified Distance Metric…](https://www.sciencedirect.com/science/article/abs/pii/S0957417425003604)”（ESWA 2025）入选ESI高被引（2025/11 &#124; 2026/01 &#124; 2026/03）。
 - *2025/11*: &nbsp;🎉 两篇论文被**AAAI 2026**录用，恭喜赵明杰和谭泽熙同学！
 - *2025/10*: &nbsp;🎉 一篇论文被**TCYB**接收，恭喜陈欣禧和赵朗同学以及刘鹏教授！
 - *2025/10*: &nbsp;🎉 OMG研究生获得**研究生国家奖学金**，恭喜冯森同学！
