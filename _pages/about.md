@@ -11,7 +11,7 @@ redirect_from:
 <span class='anchor' id="news"></span>
 
 # 📜 所有新闻动态
-- *2025/09*: &nbsp;🎉 OMG本科科研生保研（直博）至**南方科技大学**，恭喜谭泽熙同学！
+- *2026/09*: &nbsp;🎉🎉 OMG本科科研生保研（直博）至**南方科技大学**，恭喜谭泽熙同学！
 - *2026/09*: &nbsp;🎉🎉 一篇论文被**SIGMOD 2027**录用，恭喜王宇同学！
 - *2026/09*: &nbsp;🎉 一篇论文被**ICDM 2026** BlueSky Track录用，恭喜谢涛同学！
 - *2026/08*: &nbsp;🎉🎉 一篇论文被**IEEE Computational Intelligence Magazine (CIM)**接收，恭喜黄展培同学和孙宾宾医生！
