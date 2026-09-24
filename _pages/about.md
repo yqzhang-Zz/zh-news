@@ -11,6 +11,8 @@ redirect_from:
 <span class='anchor' id="news"></span>
 
 # 📜 所有新闻动态
+- *2026/09*: &nbsp;🎉🎉 论文“[Learning Self-Growth Maps for…](https://arxiv.org/pdf/2404.09243)”（TNNLS 2025）入选**ESI热点论文**（2026/09），并连续5期入选**ESI高被引论文**（2026/01 &#124; .. &#124; 2026/09）。
+- *2026/09*: &nbsp;🎉 两篇论文被**BIBM 2026**录用为Regular Paper，恭喜蔡升宏同学和姬玉柱教授！
 - *2026/09*: &nbsp;🎉🎉 OMG本科科研生保研至**中科院计算所**，恭喜杨梓华同学！
 - *2026/09*: &nbsp;🎉🎉 OMG本科科研生保研（直博）至**南方科技大学**，恭喜谭泽熙同学！
 - *2026/09*: &nbsp;🎉🎉 一篇论文被**SIGMOD 2027**录用，恭喜王宇同学！
@@ -18,32 +20,32 @@ redirect_from:
 - *2026/08*: &nbsp;🎉🎉 一篇论文被**IEEE Computational Intelligence Magazine (CIM)**接收，恭喜黄展培同学和孙宾宾医生！
 - *2026/08*: &nbsp;🎉 一篇论文被**CIKM 2026**录用，恭喜蔡升宏和杨梓华同学！
 - *2026/08*: &nbsp;🎉 一篇论文被**Pattern Recognition**接收，恭喜李梦柯教授！
-- *2026/07*: &nbsp;🎉🎉 论文“[Learning Self-Growth Maps for…](https://arxiv.org/pdf/2404.09243)”（TNNLS 2025）连续4期入选ESI高被引（2026/01 &#124; .. &#124; 2026/07）。
+- *2026/07*: &nbsp;🎉🎉 论文“[Learning Self-Growth Maps for…](https://arxiv.org/pdf/2404.09243)”（TNNLS 2025）连续4期入选**ESI高被引论文**（2026/01 &#124; .. &#124; 2026/07）。
 - *2026/06*: &nbsp;🎉🎉 本人获得2025-2026年度**IEEE TETCI杰出副主编奖**。
 - *2026/06*: &nbsp;🎉🎉 一篇论文被**TMM**接收，恭喜陈姝同学和卢杨教授！
 - *2026/06*: &nbsp;🎉 OMG本科生获批主持2项**国家级大创项目**，恭喜杨梓华和肖豪奕同学！
 - *2026/05*: &nbsp;🎉 一篇综述论文被**TAI**接收，恭喜张云帆同学！
 - *2026/05*: &nbsp;🎉 一篇论文被**ECML-PKDD 2026**录用，恭喜张楚瑶同学！
 - *2026/05*: &nbsp;🎉🎉 一篇论文被**SIGKDD 2026**录用，恭喜谢涛同学！
-- *2026/05*: &nbsp;🎉🎉 论文“[Learning Self-Growth Maps for…](https://arxiv.org/pdf/2404.09243)”（TNNLS 2025）持续入选ESI高被引（2026/01 &#124; 2026/03 &#124; 2026/05）。
+- *2026/05*: &nbsp;🎉🎉 论文“[Learning Self-Growth Maps for…](https://arxiv.org/pdf/2404.09243)”（TNNLS 2025）持续入选**ESI高被引论文**（2026/01 &#124; 2026/03 &#124; 2026/05）。
 - *2026/04*: &nbsp;🎉🎉 一篇论文被**ICML 2026**录用，恭喜李梦柯教授！
 - *2026/04*: &nbsp;🎉 OMG本科生团队获得“华商智演·全球AI场景实战创新大赛”**特等奖**，恭喜团队同学！
 - *2026/04*: &nbsp;🎉 本人被评为广东工业大学2024-2025学年**优秀班主任**。
 - *2026/03*: &nbsp;🎉 本人被评为广东工业大学2025年**创新创业教育工作优秀导师**。
-- *2026/03*: &nbsp;🎉🎉 论文“[Learning Self-Growth Maps for…](https://arxiv.org/pdf/2404.09243)”（TNNLS 2025）持续入选ESI高被引（2026/01 &#124; 2026/03）。
-- *2026/03*: &nbsp;🎉🎉 论文“[Learning Unified Distance Metric…](https://arxiv.org/abs/2603.04458)”（ESWA 2025）持续入选ESI高被引（2025/11 &#124; 2026/01 &#124; 2026/03）。
+- *2026/03*: &nbsp;🎉🎉 论文“[Learning Self-Growth Maps for…](https://arxiv.org/pdf/2404.09243)”（TNNLS 2025）持续入选**ESI高被引论文**（2026/01 &#124; 2026/03）。
+- *2026/03*: &nbsp;🎉🎉 论文“[Learning Unified Distance Metric…](https://arxiv.org/abs/2603.04458)”（ESWA 2025）持续入选**ESI高被引论文**（2025/11 &#124; 2026/01 &#124; 2026/03）。
 - *2026/02*: &nbsp;🎉🎉 两篇论文被**CVPR 2026**录用，恭喜刘赫昭和侯世豪同学以及卢杨教授！
 - *2026/01*: &nbsp;🎉 本人被评为广东工业大学2025年度**优秀研究生导师**。
 - *2026/01*: &nbsp;🎉 一篇论文被**DASFAA 2026**录用为长文，恭喜陈俊仰同学！
 - *2026/01*: &nbsp;🎉 两篇论文被**ICASSP 2026**录用，恭喜邱淑洁和陈泰熙同学！
-- *2026/01*: &nbsp;🎉🎉 论文“[Learning Self-Growth Maps for…](https://arxiv.org/pdf/2404.09243)”（TNNLS 2025）入选ESI高被引（2026/01）。
-- *2026/01*: &nbsp;🎉🎉 论文“[Learning Unified Distance Metric…](https://arxiv.org/abs/2603.04458)”（ESWA 2025）持续入选ESI高被引（2025/11 &#124; 2026/01）。
+- *2026/01*: &nbsp;🎉🎉 论文“[Learning Self-Growth Maps for…](https://arxiv.org/pdf/2404.09243)”（TNNLS 2025）入选**ESI高被引论文**（2026/01）。
+- *2026/01*: &nbsp;🎉🎉 论文“[Learning Unified Distance Metric…](https://arxiv.org/abs/2603.04458)”（ESWA 2025）持续入选**ESI高被引论文**（2025/11 &#124; 2026/01）。
 - *2026/01*: &nbsp;🎉 本人入选广东工业大学计算机学院2025年“**智创逐梦**”**年度人物**。
 - *2025/12*: &nbsp;🎉 两篇论文被**IoTJ**接收。
 - *2025/12*: &nbsp;🎉 本人被评为《广东工业大学学报》2025年度**优秀编委**。
 - *2025/12*: &nbsp;🎉 本人当选广东**省青年科学家协会理事**（第六届）。
 - *2025/11*: &nbsp;🎉 一篇论文被**Information Sciences**接收，恭喜张越教授和邱传隆同学！
-- *2025/11*: &nbsp;🎉🎉 论文“[Learning Unified Distance Metric…](https://arxiv.org/abs/2603.04458)”（ESWA 2025）入选ESI高被引（2025/11）。
+- *2025/11*: &nbsp;🎉🎉 论文“[Learning Unified Distance Metric…](https://arxiv.org/abs/2603.04458)”（ESWA 2025）入选**ESI高被引论文**（2025/11）。
 - *2025/11*: &nbsp;🎉 两篇论文被**AAAI 2026**录用，恭喜赵明杰和谭泽熙同学！
 - *2025/10*: &nbsp;🎉 一篇论文被**TCYB**接收，恭喜陈欣禧和赵朗同学以及刘鹏教授！
 - *2025/10*: &nbsp;🎉 OMG研究生获得**研究生国家奖学金**，恭喜冯森同学！
