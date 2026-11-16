@@ -1,0 +1,11 @@
+{
+  "owner": "yqzhang-Zz",
+  "repository": "zh-news",
+  "fact_revision": "profile-2026-11-15-news1",
+  "files": {
+    "_data/academic_profile.yml": "0c897445b57a54f4626a9d67008a1ebf304d5fa0d2edd462ed9f71f0eac285b7",
+    "_data/academic_publications_by_id.yml": "b5bbc3183e9d4a3ea88fca82040ed76c924c5984cd3eee10c0f39990deaaef27",
+    "_data/academic_news.yml": "b9443b63df2b438fedb8a84fce0cf6185b4297b592007076388915daacd8a76e",
+    "_includes/academic-news.html": "e15cc0412398b97728ac341f78cbb7dec5a35e72800b352a28d4e707dfe55720"
+  }
+}
